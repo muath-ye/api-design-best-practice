@@ -94,3 +94,5 @@ To make the API experience more pleasant for the average consumer, consider pack
 
 Example of alias:
 > ```GET /flights/recently_opened```
+
+## Prevent abuse
