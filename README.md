@@ -121,3 +121,23 @@ Just like an HTML error page shows a useful error message to a visitor, an API s
 API errors typically break down into 2 types: 400 series status codes for client issues & 500 series status codes for server issues.
 
 JSON error body should provide a few things for the developer - a useful error message, a unique error code (that can be looked up for more details in the docs) and possibly a detailed description.
+
+Example:
+```json
+{
+  "code" : 1024,
+  "message" : "Validation Failed",
+  "errors" : [
+    {
+      "code" : 5432,
+      "field" : "first_name",
+      "message" : "First name cannot have fancy characters"
+    },
+    {
+       "code" : 5622,
+       "field" : "password",
+       "message" : "Password cannot be blank"
+    }
+  ]
+}
+```
