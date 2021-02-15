@@ -30,3 +30,4 @@
   > ```GET /posts/1``` Retrieves a specific post.
   > ```POST /posts``` Create a new post.
   > ```PUT /posts/1``` Update all post #1 details.
+  > ```PATCH /posts/1``` Partially update post #1.
