@@ -46,3 +46,5 @@ Suppose that each posts has a comments so the end-points will be in the followin
 > ```POST /posts/1/comments``` Create a new comment related in post#1
 
 > PUT /posts/1/comments/5 update comment #5 related in post#1
+
+> PATCH /posts/1/comments/5 Partially updates comment #5 related in post#1
