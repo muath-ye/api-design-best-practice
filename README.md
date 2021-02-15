@@ -141,3 +141,5 @@ Example:
   ]
 }
 ```
+
+## HTTP Status code
