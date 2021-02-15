@@ -81,3 +81,5 @@ like filtering a generic parameter sort can be used to describe sorting rules.
 ### Searching
 
 Sometimes basic filters aren’t enough and you need the power of full text search.
+
+This is a combining between filters and sorting.
