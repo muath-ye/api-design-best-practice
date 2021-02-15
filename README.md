@@ -24,3 +24,6 @@
   
   - Resource should be ```nouns``` not ```verbs```.
   > Example: /users/{id} instead of /get-user.
+
+  - End-points methods should represent their work.
+  
