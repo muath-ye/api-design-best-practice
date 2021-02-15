@@ -119,3 +119,5 @@ There are 2 approaches: ETag and Last-Modified
 Just like an HTML error page shows a useful error message to a visitor, an API should provide a useful error message in a known consumable format.
 
 API errors typically break down into 2 types: 400 series status codes for client issues & 500 series status codes for server issues.
+
+JSON error body should provide a few things for the developer - a useful error message, a unique error code (that can be looked up for more details in the docs) and possibly a detailed description.
