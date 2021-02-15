@@ -10,3 +10,5 @@
 
   - Separate words with dashes.
   > Example: ```/users/{id}/pending-orders``` instead of ```/users/{id}/pending_orders```.
+
+  - Follow the naming pattern similar to the folder structure.
