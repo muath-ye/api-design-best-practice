@@ -111,3 +111,5 @@ To prevent abuse you can limit API calls using:
 ## Caching
 
 HTTP provides a built-in caching framework! All you have to do is include some additional outbound response headers and do a little validation when you receive some inbound request headers.
+
+There are 2 approaches: ETag and Last-Modified
