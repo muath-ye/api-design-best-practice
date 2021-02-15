@@ -47,6 +47,6 @@ Suppose that each posts has a comments so the end-points will be in the followin
 
 > ```PUT /posts/1/comments/5``` update comment #5 related in post#1
 
-> PATCH /posts/1/comments/5 Partially updates comment #5 related in post#1
+> ```PATCH /posts/1/comments/5``` Partially updates comment #5 related in post#1
 
 > ```DELETE /posts/1/comments/5``` Delete comment #5 related in post#1
