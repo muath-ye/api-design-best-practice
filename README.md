@@ -69,3 +69,5 @@ Use a unique query parameter for each field that implements filter, sorting or s
 
 if i want to get posts which only opened
 ```/posts?status=open``` so state is a query parameter that implements a filter.
+
+### Sorting
