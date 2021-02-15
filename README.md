@@ -7,3 +7,6 @@
 
   - Should use lower case letters.
   > Example: ```/users/{id}/pending-orders``` instead of ```/users/{id}/Pending_Orders```.
+
+  - Separate words with dashes.
+  > Example: ```/users/{id}/pending-orders``` instead of ```/users/{id}/pending_orders```.
