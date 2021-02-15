@@ -36,3 +36,5 @@
 ## Relationships
 
 If there is a relationship between resources it can be represented like the following example:
+
+Suppose that each posts has a comments so the end-points will be in the following form:
