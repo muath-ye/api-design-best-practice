@@ -20,7 +20,7 @@
   - No trailing forward slash.
   > Example: ```/users/{id}/pending-orders``` instead of ```/users/{id}/pending-orders/``` and both should give the same output.
 
-# Naming
+## Naming
   
   - Resource should be ```nouns``` not ```verbs```.
   > Example: /users/{id} instead of /get-user.
