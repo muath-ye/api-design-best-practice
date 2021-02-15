@@ -28,3 +28,4 @@
   - End-points methods should represent their work.
   > ```GET /posts``` Retrieves a list of posts.
   > ```GET /posts/1``` Retrieves a specific post.
+  > ```POST /posts``` Create a new post.
