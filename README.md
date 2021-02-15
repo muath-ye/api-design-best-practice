@@ -117,3 +117,5 @@ There are 2 approaches: ETag and Last-Modified
 ## Errors
 
 Just like an HTML error page shows a useful error message to a visitor, an API should provide a useful error message in a known consumable format.
+
+API errors typically break down into 2 types: 400 series status codes for client issues & 500 series status codes for server issues.
