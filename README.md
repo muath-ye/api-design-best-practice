@@ -4,3 +4,6 @@
 
   - Write for human.
   > Example: ```/users/{id}/card-number``` instead of ```/users/{id}/pin```.
+
+  - Should use lower case letters.
+  > Example: ```/users/{id}/pending-orders``` instead of ```/users/{id}/Pending_Orders```.
