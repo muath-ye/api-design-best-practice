@@ -101,3 +101,5 @@ To prevent abuse you can limit API calls using:
 
 > ```X-Rate-limit``` with status code response
 ```429 Too Many Requests```
+
+> ```X-Rate-Limit-Limit``` - The number of allowed requests in the current period
