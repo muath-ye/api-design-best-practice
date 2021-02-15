@@ -66,3 +66,6 @@ It’s best to keep the base resource URLs as lean as possible. Complex result f
 Use a unique query parameter for each field that implements filter, sorting or searching
 
 ### Filtering
+
+if i want to get posts which only opened
+```/posts?status=open``` so state is a query parameter that implements a filter.
