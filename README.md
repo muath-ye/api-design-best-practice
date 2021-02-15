@@ -60,3 +60,6 @@ To secure your end-points. SSL helps to protect sensitive information such as lo
 Because end-points may be needed to changes or updated so you need to design your end-points with a version that appeared in URL.
 
 ## Result filtering, sorting and searching
+
+It’s best to keep the base resource URLs as lean as possible. Complex result filters, sorting requirements, and advanced searching
+
