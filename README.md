@@ -115,3 +115,5 @@ HTTP provides a built-in caching framework! All you have to do is include some a
 There are 2 approaches: ETag and Last-Modified
 
 ## Errors
+
+Just like an HTML error page shows a useful error message to a visitor, an API should provide a useful error message in a known consumable format.
