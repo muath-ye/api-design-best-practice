@@ -1,0 +1,1 @@
+# Best practice when you write an API
