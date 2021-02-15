@@ -32,3 +32,5 @@
   > ```PUT /posts/1``` Update all post #1 details.
   > ```PATCH /posts/1``` Partially update post #1.
   > ```DELETE /posts/1``` Delete post #1.
+
+## Relationships
