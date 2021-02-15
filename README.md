@@ -96,3 +96,7 @@ Example of alias:
 > ```GET /flights/recently_opened```
 
 ## Prevent abuse
+
+To prevent abuse you can limit API calls using
+```X-Rate-limit``` with status code response
+```429 Too Many Requests```
