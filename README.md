@@ -89,3 +89,5 @@ Example of search:
 > ```GET /flights?q=return&status=open&sort=priority,created_at``` - Retrieve the highest priority open flights mentioning the word ```return```
 
 ## Aliases for common queries
+
+To make the API experience more pleasant for the average consumer, consider packaging up sets of conditions into easily accessible RESTful paths.
