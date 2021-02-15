@@ -16,3 +16,6 @@
   - Use Hierarchy.
 
   - Keep in mind while designing an API is maintaining the version number in the API.
+  
+  - No trailing forward slash.
+  > Example: ```/users/{id}/pending-orders``` instead of ```/users/{id}/pending-orders/``` and both should give the same output.
