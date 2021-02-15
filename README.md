@@ -67,8 +67,8 @@ Use a unique query parameter for each field that implements filter, sorting or s
 
 ### Filtering
 
-if you want to get posts which only opened
-> ```/posts?status=open``` so status is a query parameter that implements a filter.
+if you want to get flight which only opened
+> ```/flight?status=open``` so status is a query parameter that implements a filter.
 
 ### Sorting
 
