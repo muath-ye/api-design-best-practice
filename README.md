@@ -52,3 +52,5 @@ Suppose that each posts has a comments so the end-points will be in the followin
 > ```DELETE /posts/1/comments/5``` Delete comment #5 related in post#1
 
 ## Always use SSL
+
+To secure your end-points. SSL helps to protect sensitive information such as logins, passwords, account details and cardholders information for e-commerce websites during Internet communication. All data over network will be encrypted.
