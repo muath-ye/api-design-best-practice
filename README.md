@@ -50,3 +50,5 @@ Suppose that each posts has a comments so the end-points will be in the followin
 > ```PATCH /posts/1/comments/5``` Partially updates comment #5 related in post#1
 
 > ```DELETE /posts/1/comments/5``` Delete comment #5 related in post#1
+
+## Always use SSL
