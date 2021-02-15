@@ -91,3 +91,6 @@ Example of search:
 ## Aliases for common queries
 
 To make the API experience more pleasant for the average consumer, consider packaging up sets of conditions into easily accessible RESTful paths.
+
+Example of alias:
+> ```GET /flights/recently_opened```
