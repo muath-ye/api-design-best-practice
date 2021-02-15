@@ -14,3 +14,5 @@
   - Follow the naming pattern similar to the folder structure.
 
   - Use Hierarchy.
+
+  - Keep in mind while designing an API is maintaining the version number in the API.
