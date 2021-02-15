@@ -84,3 +84,6 @@ Sometimes basic filters aren’t enough and you need the power of full text sear
 
 This is a combining between filters and sorting.
 > ```GET /flight?status=open&sort=priority``` Retrieves a list of opened flights in descending order of priority.
+
+Example of search: 
+> ```GET /flights?q=return&status=open&sort=priority,created_at``` - Retrieve the highest priority open flights mentioning the word ```return```
