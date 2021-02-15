@@ -44,3 +44,5 @@ Suppose that each posts has a comments so the end-points will be in the followin
 > ```GET /posts/1/comments/5``` Retrieves comment#5 related to post#1
 
 > ```POST /posts/1/comments``` Create a new comment related in post#1
+
+> PUT /posts/1/comments/5 update comment #5 related in post#1
