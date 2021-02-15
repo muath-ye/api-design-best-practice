@@ -63,3 +63,4 @@ Because end-points may be needed to changes or updated so you need to design you
 
 It’s best to keep the base resource URLs as lean as possible. Complex result filters, sorting requirements, and advanced searching
 
+Use a unique query parameter for each field that implements filter, sorting or searching
