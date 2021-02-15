@@ -26,4 +26,4 @@
   > Example: /users/{id} instead of /get-user.
 
   - End-points methods should represent their work.
-  
+  > ```GET /posts``` Retrieves a list of posts.
