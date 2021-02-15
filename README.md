@@ -77,3 +77,5 @@ like filtering a generic parameter sort can be used to describe sorting rules.
 > ```GET /flights?sort=priority``` - Retrieves a list of flights in descending order of priority.
 
 > ```GET /flights?sort=priority,created_at``` - Retrieves a list of flights in descending order of priority. Within a specific priority, older flights are ordered first.
+
+### Searching
