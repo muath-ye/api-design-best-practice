@@ -56,3 +56,5 @@ Suppose that each posts has a comments so the end-points will be in the followin
 To secure your end-points. SSL helps to protect sensitive information such as logins, passwords, account details and cardholders information for e-commerce websites during Internet communication. All data over network will be encrypted.
 
 ## Always version your api
+
+Because end-points may be needed to changes or updated so you need to design your end-points with a version that appeared in URL.
