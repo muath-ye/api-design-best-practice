@@ -71,3 +71,5 @@ if i want to get posts which only opened
 ```/posts?status=open``` so state is a query parameter that implements a filter.
 
 ### Sorting
+
+like filtering a generic parameter sort can be used to describe sorting rules.
