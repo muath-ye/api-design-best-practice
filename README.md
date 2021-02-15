@@ -34,3 +34,5 @@
   > ```DELETE /posts/1``` Delete post #1.
 
 ## Relationships
+
+If there is a relationship between resources it can be represented like the following example:
