@@ -58,3 +58,5 @@ To secure your end-points. SSL helps to protect sensitive information such as lo
 ## Always version your api
 
 Because end-points may be needed to changes or updated so you need to design your end-points with a version that appeared in URL.
+
+## Result filtering, sorting and searching
