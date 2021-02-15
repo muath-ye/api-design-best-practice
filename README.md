@@ -105,3 +105,5 @@ To prevent abuse you can limit API calls using:
 > ```X-Rate-Limit-Limit``` - The number of allowed requests in the current period
 
 > ```X-Rate-Limit-Remaining``` - The number of remaining requests in the current period
+
+> ```X-Rate-Limit-Reset``` - The number of seconds left in the current period.
