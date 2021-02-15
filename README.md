@@ -109,3 +109,5 @@ To prevent abuse you can limit API calls using:
 > ```X-Rate-Limit-Reset``` - The number of seconds left in the current period.
 
 ## Caching
+
+HTTP provides a built-in caching framework! All you have to do is include some additional outbound response headers and do a little validation when you receive some inbound request headers.
